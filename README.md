@@ -60,12 +60,14 @@
 - [FIT NEXUS GitHub 링크](https://github.com/LimeYun/MSA9_GYM_REST)-->
 
 
-### 📌 **Spring**  
+### 📌 **Spring** 
+- **기간 :** 2025.02.03(월) ~ 2025.02.20(목)
 - **기술 스택 :** Java, JSP, HTML, CSS, JavaScript, MySQL
 - **주제 :** 플로깅 챌린지 커뮤니티 프로젝트
 - [Spring GitHub 링크](https://github.com/Ryuyena0305/recycle_project)
 
-### 📌 **Spring,React**  
+### 📌 **Spring,React** - 진행중
+- **기간 :** 2025.03.04(화) ~ 2025.03.31(월) 
 - **기술 스택 :** React, Java, Spring Boot, CSS, JavaScript, MySQL
 - **주제 :** 고속버스 예매 키오스크 및 관리자 프로젝트
 - [Spring GitHub 링크](https://github.com/Ryuyena0305/busking_project)  

@@ -70,7 +70,13 @@
 - **기간 :** 2025.03.04(화) ~ 2025.03.31(월) 
 - **기술 스택 :** React, Java, Spring Boot, CSS, JavaScript, MySQL
 - **주제 :** 고속버스 예매 키오스크 및 관리자 프로젝트
-- [Busking GitHub 링크](https://github.com/Ryuyena0305/busking_project)  
+- [Busking GitHub 링크](https://github.com/Ryuyena0305/busking_project)
+
+  ### 📌 **TeachPlan** [ 개인 프로젝트 ] - 진행중
+- **기간 :** 2025.03.09(일) ~ 
+- **기술 스택 :** React, Java, Spring Boot, CSS, JavaScript, MySQL
+- **주제 :** 학생, 강사, 강의 진도 및 일정 관리를 통해 학원의 운영 효율성을 극대화하고, 사용자 맞춤형 학습 환경을 제공하는 시스템 개발
+- [TeachPlan GitHub 링크](https://github.com/Ryuyena0305/TeachPlan_project) 
 
 
 

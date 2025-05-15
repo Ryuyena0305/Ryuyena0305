@@ -73,6 +73,13 @@
 - **주제 :** 고속버스 예매 키오스크 및 관리자 프로젝트
 - [Busking GitHub 링크](https://github.com/Ryuyena0305/busking_project)
 
+- ### 📌 **Heart Guard** 
+- **기간 :** 2025.04.14(월) ~ 2025.05.13(화) 
+- **기술 스택 :** Flutter, Java, Spring Boot,Android Studio, MySQL
+- **주제 :** 가장 빠른 AED와 응급실 안내 및 응급상황 신고 프로젝트
+- [Heart Guard GitHub Front 링크](https://github.com/Ryuyena0305/heartguard_project_app)
+- [Heart Guard GitHub Back 링크](https://github.com/Ryuyena0305/heartguard_project)
+
 ### 📌 **TeachPlan** [ 개인 프로젝트 ] - 진행예정
 - **기간 :** 2025.05.14(수) ~ 
 - **기술 스택 :** React, Java, Spring Boot, CSS, JavaScript, MySQL

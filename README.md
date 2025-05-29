@@ -73,7 +73,7 @@
 - **주제 :** 고속버스 예매 키오스크 및 관리자 프로젝트
 - [Busking GitHub 링크](https://github.com/Ryuyena0305/busking_project)
 
-- ### 📌 **Heart Guard** 
+### 📌 **Heart Guard** 
 - **기간 :** 2025.04.14(월) ~ 2025.05.13(화) 
 - **기술 스택 :** Flutter, Java, Spring Boot,Android Studio, MySQL
 - **주제 :** 가장 빠른 AED와 응급실 안내 및 응급상황 신고 프로젝트
@@ -88,16 +88,12 @@
 
 
 
----
-## 📊 **GitHub Stats**  
+
+<!-- ## 📊 **GitHub Stats**  
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryuyena0305&show_icons=true&theme=default&bg_color=ffffff&title_color=8a2be2&text_color=ff69b4)-->
-[![Ryuyena0305's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryuyena0305&theme=vue)](https://github.com/Ryuyena0305)
+<!-- [![Ryuyena0305's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryuyena0305&theme=vue)](https://github.com/Ryuyena0305)-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuyena0305&layout=compact)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ryuyena0305)-->
-
-
----
-
+<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ryuyena0305)-->
 
 
 

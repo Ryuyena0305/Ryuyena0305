@@ -33,7 +33,8 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Servlet-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/MyBatis-F80000?style=flat-square&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/MyBatis-F80000?style=flat-square&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white">
   <!--  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"> -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <!--<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">-->

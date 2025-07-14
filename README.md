@@ -57,23 +57,12 @@
 
 ## 🛠️ **Projects**  
 
-<!--### 📌 **FIT NEXUS** (REST API, React)
-- **기술 스택 :** React, Java, Spring Boot, CSS, JavaScript, MySQL, Jwt
-- **주제 :** 헬스장 관리 및 PT예약 시스템  
-- [FIT NEXUS GitHub 링크](https://github.com/LimeYun/MSA9_GYM_REST)-->
-
-
-### 📌 **Spring** 
-- **기간 :** 2025.02.03(월) ~ 2025.02.20(목)
-- **기술 스택 :** Java, JSP, HTML, CSS, JavaScript, MySQL
-- **주제 :** 플로깅 챌린지 커뮤니티 프로젝트
-- [Spring GitHub 링크](https://github.com/Ryuyena0305/recycle_project)
-
-### 📌 **BusKing** 
-- **기간 :** 2025.03.04(화) ~ 2025.03.31(월) 
+### 📌 **TeachPlan** [ 개인 프로젝트 ] - 진행중
+<!-- **기간 :** 2025.05.14(수) ~ --> 
 - **기술 스택 :** React, Java, Spring Boot, CSS, JavaScript, MySQL
-- **주제 :** 고속버스 예매 키오스크 및 관리자 프로젝트
-- [Busking GitHub 링크](https://github.com/Ryuyena0305/busking_project)
+- **주제 :** 학생, 강사, 강의 진도 및 일정 관리를 통해 학원의 운영 효율성을 극대화하고, 사용자 맞춤형 학습 환경을 제공하는 시스템 개발
+- [TeachPlan GitHub 링크](https://github.com/Ryuyena0305/TeachPlan_project) 
+
 
 ### 📌 **Heart Guard** 
 - **기간 :** 2025.04.14(월) ~ 2025.05.13(화) 
@@ -82,11 +71,25 @@
 - [Heart Guard GitHub Front 링크](https://github.com/Ryuyena0305/heartguard_project_app)
 - [Heart Guard GitHub Back 링크](https://github.com/Ryuyena0305/heartguard_project)
 
-### 📌 **TeachPlan** [ 개인 프로젝트 ] - 진행중
-<!-- **기간 :** 2025.05.14(수) ~ --> 
+
+### 📌 **BusKing** 
+- **기간 :** 2025.03.04(화) ~ 2025.03.31(월) 
 - **기술 스택 :** React, Java, Spring Boot, CSS, JavaScript, MySQL
-- **주제 :** 학생, 강사, 강의 진도 및 일정 관리를 통해 학원의 운영 효율성을 극대화하고, 사용자 맞춤형 학습 환경을 제공하는 시스템 개발
-- [TeachPlan GitHub 링크](https://github.com/Ryuyena0305/TeachPlan_project) 
+- **주제 :** 고속버스 예매 키오스크 및 관리자 프로젝트
+- [Busking GitHub 링크](https://github.com/Ryuyena0305/busking_project)
+
+
+### 📌 **Spring** 
+- **기간 :** 2025.02.03(월) ~ 2025.02.20(목)
+- **기술 스택 :** Java, JSP, HTML, CSS, JavaScript, MySQL
+- **주제 :** 플로깅 챌린지 커뮤니티 프로젝트
+- [Spring GitHub 링크](https://github.com/Ryuyena0305/recycle_project)
+
+
+
+
+
+
 
 
 
